@@ -11,7 +11,7 @@ const EVENT_DETAILS = {
   title: "Halal Bihalal",
   subtitle: "Store Operational & Store Development",
   quote: "Kerja Keras Menyatukan, Silaturahmi Menguatkan",
-  location: "El Hotel Malang",
+  location: "Panderman Resto by El Hotel Malang",
   address: "Jl. Bukit Palem Raya No.1-3, Karanglo, Kec. Singosari, Kabupaten Malang, Jawa Timur 65153",
   date: "12 April 2026",
   time: "11.00 WIB – Selesai",
